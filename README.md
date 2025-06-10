@@ -38,7 +38,7 @@ javac backend/*.java frontend/*.java
 ## Ejecución
 
 ```bash
-java frontend.Main
+Main. java
 ```
 
 Al iniciar, se abrirá un explorador de archivos para seleccionar el archivo con los ítems.
