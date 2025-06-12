@@ -1,0 +1,10 @@
+¿Qué es un bucle?|Un bloque de código;Una variable;Una función|0|MULTIPLE_CHOICE|REMEMBER|30
+¿Java es orientado a objetos?|Verdadero;Falso|0|TRUE_FALSE|UNDERSTAND|15
+¿Cuál es la salida de `System.out.println(2 + 3 * 4);`?|14;20;24;18|0|MULTIPLE_CHOICE|APPLY|30
+¿Qué palabra clave se utiliza para heredar una clase en Java?|extends;implements;import;instanceof|0|MULTIPLE_CHOICE|REMEMBER|25
+¿Qué estructura permite ejecutar diferentes bloques de código según el valor de una variable?|if;switch;while;for|1|MULTIPLE_CHOICE|UNDERSTAND|30
+¿Qué método se llama al iniciar un programa en Java?|main;start;run;init|0|MULTIPLE_CHOICE|REMEMBER|20
+¿Un `ArrayList` en Java puede cambiar de tamaño dinámicamente?|Verdadero;Falso|0|TRUE_FALSE|UNDERSTAND|15
+¿El operador `==` compara referencias en objetos en Java?|Verdadero;Falso|0|TRUE_FALSE|ANALYZE|20
+¿Una clase abstracta puede tener métodos implementados?|Verdadero;Falso|0|TRUE_FALSE|EVALUATE|20
+¿El recolector de basura en Java debe ser llamado manualmente por el programador?|Verdadero;Falso|1|TRUE_FALSE|REMEMBER|15
