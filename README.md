@@ -59,12 +59,12 @@ Cada línea representa una pregunta con el siguiente formato:
 pregunta|opción1;opción2;opción3|índice_correcto|tipo|nivel|tiempo
 ```
 
-Ejemplo 1 - Selección múltiple:
+1. Selección múltiple:
 ```
 ¿Qué es un bucle?|Un bloque de código;Una variable;Una función|0|MULTIPLE_CHOICE|REMEMBER|30
 ```
 
-Ejemplo 2 - Verdadero/Falso:
+2. Verdadero/Falso:
 ```
 ¿Java está orientado a objetos?|Verdadero;Falso|0|TRUE_FALSE|UNDERSTAND|15
 ```
